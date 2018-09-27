@@ -1,4 +1,4 @@
-To access the GPIOs of the JetsonTX2 include the given header file and .c file to your program folder. It can manipulate certain pins which are availabe through "sysfs". [Read more here](https://www.kernel.org/doc/Documentation/gpio/sysfs.txt)
+To access the GPIOs of the JetsonTX2 include the given header file **jetsonTX2.h**  and **jetsonTX2.c** file to your program folder. It can manipulate certain pins which are availabe through "sysfs". [Read more here](https://www.kernel.org/doc/Documentation/gpio/sysfs.txt)
 
 Followinng are the functions that can be used to access/manipulate GPIOs and their description:
 
